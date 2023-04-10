@@ -1,0 +1,17 @@
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Kockica za jamb\Kockica za jamb\bin\Debug\net6.0-windows\Kockica za jamb.exe
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Kockica za jamb\Kockica za jamb\bin\Debug\net6.0-windows\Kockica za jamb.deps.json
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Kockica za jamb\Kockica za jamb\bin\Debug\net6.0-windows\Kockica za jamb.runtimeconfig.json
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Kockica za jamb\Kockica za jamb\bin\Debug\net6.0-windows\Kockica za jamb.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Kockica za jamb\Kockica za jamb\bin\Debug\net6.0-windows\Kockica za jamb.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Kockica za jamb\Kockica za jamb\obj\Debug\net6.0-windows\Kockica za jamb.csproj.AssemblyReference.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Kockica za jamb\Kockica za jamb\obj\Debug\net6.0-windows\Kockica_za_jamb.Form1.resources
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Kockica za jamb\Kockica za jamb\obj\Debug\net6.0-windows\Kockica za jamb.csproj.GenerateResource.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Kockica za jamb\Kockica za jamb\obj\Debug\net6.0-windows\Kockica za jamb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Kockica za jamb\Kockica za jamb\obj\Debug\net6.0-windows\Kockica za jamb.AssemblyInfoInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Kockica za jamb\Kockica za jamb\obj\Debug\net6.0-windows\Kockica za jamb.AssemblyInfo.cs
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Kockica za jamb\Kockica za jamb\obj\Debug\net6.0-windows\Kockica za jamb.csproj.CoreCompileInputs.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Kockica za jamb\Kockica za jamb\obj\Debug\net6.0-windows\Kockica za jamb.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Kockica za jamb\Kockica za jamb\obj\Debug\net6.0-windows\refint\Kockica za jamb.dll
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Kockica za jamb\Kockica za jamb\obj\Debug\net6.0-windows\Kockica za jamb.pdb
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Kockica za jamb\Kockica za jamb\obj\Debug\net6.0-windows\Kockica za jamb.genruntimeconfig.cache
+C:\Users\Cvijander\source\repos\Relja napredni kurs\Kockica za jamb\Kockica za jamb\obj\Debug\net6.0-windows\ref\Kockica za jamb.dll
